@@ -2,10 +2,10 @@
 Projet Kotlin dirigé par des élèves MP1 en Télécommunication qui sont:
 
 <p>RATSIMBAZAFY Tolonirina Rommé</p>
-RANDRIANARIVELO GUTTILA Toavinjanahary Nathanaela
-ANDRIATAHINA Michel Angelo
-ANDRIAMIFIDY Samuel Misa
-SOLONDRABEZAFY Harry Manoa
+<p>RANDRIANARIVELO GUTTILA Toavinjanahary Nathanaela</p>
+<p>ANDRIATAHINA Michel Angelo</p>
+<p>ANDRIAMIFIDY Samuel Misa</p>
+<p>SOLONDRABEZAFY Harry Manoa</p>
 
 ## 📱 Capture d'écran
 
