@@ -11,7 +11,7 @@ Projet Kotlin dirigé par des élèves MP1 en Télécommunication qui sont:
 
 | Recommendé   | Populaire|
 | ---- | ---- | ---- | ---- |
-| ![](images/home-screen-light.png) |  | ![](images/home-screen-dark.png) | 
+| ![](images/home-screen-light.png) | ![](images/home-screen-dark.png) | 
 
 
 
