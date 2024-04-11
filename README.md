@@ -1,7 +1,7 @@
 #   GET EVENT
 Projet Kotlin dirigé par des élèves MP1 en Télécommunication qui sont:
 
-RATSIMBAZAFY Tolonirina Rommé
+<p>RATSIMBAZAFY Tolonirina Rommé</p>
 RANDRIANARIVELO GUTTILA Toavinjanahary Nathanaela
 ANDRIATAHINA Michel Angelo
 ANDRIAMIFIDY Samuel Misa
@@ -26,7 +26,3 @@ SOLONDRABEZAFY Harry Manoa
 | ![](images/light-theme-ui-1.png) | ![](images/light-theme-ui-2.png) | ![](images/light-theme-ui-3.png) |
 | ![](images/dark-theme-ui-1.png) | ![](images/dark-theme-ui-2.png) | ![](images/dark-theme-ui-3.png) |
 
-
-
-
-```
