@@ -9,9 +9,9 @@ Projet Kotlin dirigé par des élèves MP1 en Télécommunication qui sont:
 
 ## 📱 Capture d'écran
 
-| Recommendé   | Populaire|
+| Recommandé  | Populaire | Capture  | Capture  |
 | ---- | ---- | ---- | ---- |
-| ![](images/home-screen-light.png) | ![](images/home-screen-dark.png) | 
+| ![](images/home-screen-light.png) | ![](images/menu-screen-light.png) | ![](images/home-screen-dark.png) | ![](images/menu-screen-dark.png) |
 
 
 
